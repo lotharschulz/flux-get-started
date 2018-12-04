@@ -17,7 +17,7 @@ spec:
     type: RollingUpdate
   selector:
     matchLabels:
-      app: myinfo
+      app: podinfo
   template:
     metadata:
       annotations:
