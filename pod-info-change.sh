@@ -15,7 +15,7 @@ echo -e "PODINFO_UI_COLOR set to green.\n"
 echo -e "Deployment description should reflect that in a couple of seconds.\n"
 echo -e "--------------------------------\n\n\n"
 
-sleep 1
+sleep 10
 
 echo -e "Clean up - set to original state.\n"
 sed -i -e 's/value: green/value: white/g' ./workloads/podinfo-dep.yaml
