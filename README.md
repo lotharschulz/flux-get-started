@@ -1,4 +1,15 @@
-# flux-get-started
+# flux get started fork
+
+A fork for a [gitops blog post on ls.info](https://www.lotharschulz.info/2018/12/10/gitops/)
+including a show case video:
+
+[![gitops](gitops.png)](https://youtu.be/pSrjBcKr1tA "gitops")
+
+---
+
+original repository [flux-get-started](https://github.com/weaveworks/flux-get-started) at Nov 18, 2018:
+
+## flux-get-started
 
 We published a step-by-step run-through on how to use Flux and Helm Operator [over
 here](https://github.com/weaveworks/flux/blob/master/site/helm-get-started.md).
@@ -19,7 +30,7 @@ Mongodb
 
 Redis
 * Source: Helm repository (stable)
-* Kubernetes stateful set 
+* Kubernetes stateful set
 * locked automated image updates (semantic versioning filter)
 
 Ghost
