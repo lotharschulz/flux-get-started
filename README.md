@@ -1,4 +1,4 @@
-# flux get started fork
+# _[flux-get-started](https://github.com/weaveworks/flux-get-started)_ fork
 
 A fork for a [gitops blog post on ls.info](https://www.lotharschulz.info/2018/12/10/gitops/)
 including a show case video:
@@ -7,7 +7,7 @@ including a show case video:
 
 ---
 
-original repository [flux-get-started](https://github.com/weaveworks/flux-get-started) at Nov 18, 2018:
+original repository [flux-get-started](https://github.com/weaveworks/flux-get-started) at Nov 18th, 2018:
 
 ## flux-get-started
 
